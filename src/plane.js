@@ -1,5 +1,5 @@
 'use strict';
 
-function Plane(){
-  land(){};
-};
+class Plane {
+    land(){};
+}
